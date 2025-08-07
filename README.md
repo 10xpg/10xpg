@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
-I'm Prince Delali Gbezeh — aspiring **backend engineer** with a background in **biomedical engineering**.  
-Currently learning by building and working with real production systems.
+# Hello World! 👋
+I'm Prince Delali Gbezeh — a **backend-focused** engineer with a background in biomedical engineering.  
+Currently learning by building and working with real production systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
 
 ## About Me
 
-- 👨🏽‍🎓 Biomedical Engineering graduate turned developer  
-- 🧪 Learning by solving real problems in finance & health  
-- 🔐 Interested in backend architecture, APIs & developer tooling  
-- 🔁 Always refining. Always shipping.
+>- 👨🏽‍🎓 *Biomedical Engineering graduate turned self-taught developer*
+>- 🧪 *Learning by solving real world problems in finance & health*
+>- 🔐 *Interested in backend architecture, APIs & developer tooling*
+>- 🔁 *Always refining. Always shipping.*
 
-**Languages:**  
+
+
+
+**Languages**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -36,7 +39,7 @@ Currently learning by building and working with real production systems.
 ![ColdFusion](https://img.shields.io/badge/-ColdFusion-ED2B88?style=flat-square&logo=adobe&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -46,7 +49,7 @@ Currently learning by building and working with real production systems.
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Databases & Infra:**  
+**Databases & Infra**  
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![IIS](https://img.shields.io/badge/-IIS-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,26 +64,28 @@ Currently learning by building and working with real production systems.
 
 
 
+
+
 ## Projects
 
-- 🔐 **Mock MFA System**  
+- 🛡️ **Mock MFA System**  
   Recreated enterprise MFA flow in a dev-safe environment for banking applications.
 
-- 🏥 **Clinical Decision Support System**  
+- ⚕️ **Clinical Decision Support System**  
   Built an AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
 
 - 🌐 **GSBE Website**  
-  Designed and deployed the official platform for Ghana Society of Biomedical Engineers.  
+  Designed and deployed the **official** platform for Ghana Society of Biomedical Engineers.  
   → [View site](https://gsbegh.org)
 
 
-## 📫 Contact
-
-- 📧 gbezehp@gmail.com  
-- 🐙 [github.com/10xpg](https://github.com/10xpg)
 
 
----
+## Contact
+
+- 📫  gbezehp@gmail.com  
+
+##
 > _"Early in the journey — the unknown unknowns still linger."_
 
 
