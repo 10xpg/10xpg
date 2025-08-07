@@ -67,17 +67,17 @@ Building and working with real production systems at [W3S Total Secured Solution
 
 
 
-## Projects
+## My Work
 
-- 🛡️ **Mock MFA System**  
+- 🛡️ **[Mock MFA System](https://github.com/10xpg/literate-potato)**  
   Recreated enterprise MFA flow in a dev-safe environment for banking applications.
 
-- ⚕️ **Clinical Decision Support System**  
+- ⚕️ **[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
   Built an AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
 
-- 🌐 **GSBE Website**  
+- 🌐 **[GSBE](https://gsbegh.org)**  
   Designed and deployed the **official** platform for Ghana Society of Biomedical Engineers.  
-  → [View site](https://gsbegh.org)
+
 
 
 
