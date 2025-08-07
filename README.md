@@ -22,6 +22,7 @@ Currently learning by building and working with real production systems at [W3S 
 ## About Me
 
 >- 👨🏽‍🎓 *Biomedical Engineering graduate turned self-taught developer*
+>- 🌱 *Always looking for an oppurtunity to grow*
 >- 🧪 *Learning by solving real world problems in finance & health*
 >- 🔐 *Interested in backend architecture, APIs & developer tooling*
 >- 🔁 *Always refining. Always shipping.*
