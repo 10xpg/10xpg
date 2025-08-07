@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello World! 👋
 I'm Prince Delali Gbezeh — a **backend-focused** engineer with a background in biomedical engineering.  
-Currently learning by building and working with real production systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
+Building and working with real production systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
 
 ## About Me
 
