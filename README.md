@@ -88,15 +88,13 @@ Always refining. Always shipping.
 
 ### My Work
 
-- ⚕️ **[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
-  AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
+> **[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
+AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
 
-- 🌐 **[GSBE](https://gsbegh.org)**  
-  Official platform for Ghana Society of Biomedical Engineers. 
+> **[GSBE](https://gsbegh.org)**  
+Official platform for Ghana Society of Biomedical Engineers. 
 
-
-
-
+> 💡 **Note:** Check out my repositories for more
 
 
 ### Contact
