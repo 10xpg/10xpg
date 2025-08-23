@@ -25,15 +25,18 @@ Building and working with real production systems at [W3S Total Secured Solution
 ### About Me
 
 ```md
+
 Biomedical Engineering graduate turned self-taught developer
 Always looking for an oppurtunity to grow
 Learning by solving real world problems in finance & health
 Interested in backend architecture, APIs & developer tooling
 Always refining. Always shipping.
+
 ```
 
 <details>
 <summary>Languages</summary>
+<br>
   
 ![ColdFusion](https://img.shields.io/badge/-ColdFusion-ED2B88?style=flat-square&logo=adobe&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
@@ -48,6 +51,7 @@ Always refining. Always shipping.
 
 <details>
 <summary>Frameworks & Tools</summary>
+<br>
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -62,6 +66,7 @@ Always refining. Always shipping.
 
 <details>
 <summary>Databases & Infra</summary> 
+<br>
 
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![IIS](https://img.shields.io/badge/-IIS-0078D7?style=flat-square&logo=windows&logoColor=white)
