@@ -26,15 +26,12 @@ Building and working with real production systems at [W3S Total Secured Solution
 
 ### About Me
 
-```md
+>*Biomedical Engineering graduate turned self-taught developer*  
+*Always looking for an oppurtunity to grow*  
+*Learning by solving real world problems in finance & health*  
+*Interested in backend architecture, APIs & developer tooling*  
+*Always refining. Always shipping.*  
 
-Biomedical Engineering graduate turned self-taught developer
-Always looking for an oppurtunity to grow
-Learning by solving real world problems in finance & health
-Interested in backend architecture, APIs & developer tooling
-Always refining. Always shipping.
-
-```
 
 <details>
 <summary>Languages</summary>
@@ -43,11 +40,10 @@ Always refining. Always shipping.
 ![ColdFusion](https://img.shields.io/badge/-ColdFusion-ED2B88?style=flat-square&logo=adobe&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
@@ -88,13 +84,17 @@ Always refining. Always shipping.
 
 ### My Work
 
+
 > **[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
 AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
 
 > **[GSBE](https://gsbegh.org)**  
 Official platform for Ghana Society of Biomedical Engineers. 
 
-> 💡 **Note:** Check out my repositories for more
+
+> [!NOTE]
+> <small>*Check out my repositories for more*</small>
+
 
 
 ### Contact
