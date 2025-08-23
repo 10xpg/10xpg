@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 I'm Prince Delali Gbezeh — a **software engineer** with a background in biomedical engineering.  
 Building and working with real production systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
 
----
+###
+> _"Early in the journey — the unknown unknowns still linger."_
+
 
 ### About Me
 
@@ -82,7 +84,7 @@ Always refining. Always shipping.
 
 </details>
 
----
+
 
 ### My Work
 
@@ -93,7 +95,7 @@ Always refining. Always shipping.
   Official platform for Ghana Society of Biomedical Engineers. 
 
 
----
+
 
 
 
@@ -101,8 +103,6 @@ Always refining. Always shipping.
 
 📫 gbezehp@gmail.com  
 
-##
-> _"Early in the journey — the unknown unknowns still linger."_
 
 
   
