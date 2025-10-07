@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello World! 👋
 
 I'm Prince Delali Gbezeh — a **software engineer** with a background in biomedical engineering.  
-Building and working with real production systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
+Building and working with systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
 
 ###
 > _"Early in the journey — the unknown unknowns still linger."_
