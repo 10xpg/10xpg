@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# Hello World! 👋
-
-I'm Prince Delali Gbezeh — a **software engineer** with a background in biomedical engineering.  
-Building and working with systems at [W3S Total Secured Solutions](https://www.w3sghana.com).
-
-###
-> _"Early in the journey — the unknown unknowns still linger."_
-
 
 ### About Me
 
@@ -31,6 +21,22 @@ Building and working with systems at [W3S Total Secured Solutions](https://www.w
 *Learning by solving real world problems in finance & health*  
 *Interested in backend architecture, APIs & developer tooling*  
 *Always refining. Always shipping.*  
+
+> [!NOTE]
+> <small>*Check out my repositories for more*</small>
+
+
+
+-->
+
+# Hello World! 👋
+Hi, I’m Delali . I’m a software developer with a background in biomedical engineering and a growing interest in health technology.
+I’m fascinated by how secure, high-quality data can shape better healthcare systems.
+Right now, I’m gaining experience in software development at [W3S Total Secured Solutions](https://www.w3sghana.com), and exploring ways to bridge technology and healthcare to make patient data more consistent, secure, and usable.
+
+#
+> _"Early in the journey — the unknown unknowns still linger."_
+
 
 
 <details>
@@ -82,9 +88,7 @@ Building and working with systems at [W3S Total Secured Solutions](https://www.w
 
 
 
-### My Work
-
-
+#### My Work
 > **[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
 AI-assisted drug recommendation tool; explored traditional medicine data inclusion.
 
@@ -92,13 +96,9 @@ AI-assisted drug recommendation tool; explored traditional medicine data inclusi
 Official platform for Ghana Society of Biomedical Engineers. 
 
 
-> [!NOTE]
-> <small>*Check out my repositories for more*</small>
 
 
-
-### Contact
-
+#### Contact
 📫 gbezehp@gmail.com  
 
 
