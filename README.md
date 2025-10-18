@@ -4,6 +4,7 @@ I am passionate by how secure, high-quality data can shape better healthcare sys
 Right now, I am gaining experience in software development at [W3S Total Secured Solutions](https://www.w3sghana.com), and exploring ways to bridge technology and healthcare to make patient data more consistent, secure, and usable.
 <br>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10xpg&stats_format=percentages&langs_count=20&layout=compact)
 
 ## 👜 Languages and Tools
 <div>
@@ -46,17 +47,12 @@ Right now, I am gaining experience in software development at [W3S Total Secured
 </div>
 <br>
 
-## 👷‍♂️ My Work
-**[Clinical Decision Support System](https://github.com/10xpg/sanare)**  
-An AI-assisted drug recommendation tool; explored traditional medicine data inclusion as an alternative to orthodox medicines.
-
-**[GSBE](https://gsbegh.org)**  
-The official platform for Ghana Society of Biomedical Engineers. 
-<br>
-<br>
-
 ## ☎️ Contact
-📬 [gbezehp@gmail.com](mailto:gbezehp@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbezehp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-gbezeh-1872a3378/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
 <br>
 <br>
 
