@@ -4,8 +4,8 @@ I am passionate by how secure, high-quality data can shape better healthcare sys
 Right now, I am gaining experience in software development at [W3S Total Secured Solutions](https://www.w3sghana.com), and exploring ways to bridge technology and healthcare to make patient data more consistent, secure, and usable.
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10xpg&stats_format=percentages&langs_count=20&layout=compact)
 
+> <sub>_"Still early in the journey — the unknown unknowns still linger."_</sub>
 ## 👜 Languages and Tools
 <div>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
@@ -56,7 +56,14 @@ Right now, I am gaining experience in software development at [W3S Total Secured
 <br>
 <br>
 
-> <sub>_"Still early in the journey — the unknown unknowns still linger."_</sub>
+## 📈 Stats
+<a href="">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=10xpg&show_icons=true&card_width=320" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xpg&stats_format=percentages&langs_count=20&layout=compact" />
+</a>
+
 
 
   
